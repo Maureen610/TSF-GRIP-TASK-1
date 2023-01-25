@@ -1,9 +1,9 @@
-**Author: Nwobodo, Maureen Amuche**
+**Data Science and Business Analytics Internship:The SParks Foundation**
 
-**Data Science and Business Analytics Intern Project @ The SParks Foundation**
+**AUTHOR: Nwobodo, Maureen Amuche**
 
-TASK 1 - Prediction using Supervised Machine Learning;
+**TASK 1 - Prediction using Supervised Machine Learning**
 
-PREDICTION OF STUDENTS SCORE
+***Student Score Prediction based on Study Hours***
 
 In this simple linear regression task that involves just two variables, we will predict the percentage of marks that a student is expected to score based on the number of hours they studied.
