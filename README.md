@@ -1,8 +1,8 @@
-#**Author: Nwobodo, Maureen Amuche**
+**Author: Nwobodo, Maureen Amuche**
 
-#**Data Science and Business Analytics Intern Project @ The SParks Foundation**
+**Data Science and Business Analytics Intern Project @ The SParks Foundation**
 
-#TASK 1 - Prediction using Supervised Machine Learning;
+TASK 1 - Prediction using Supervised Machine Learning;
 
 PREDICTION OF STUDENTS SCORE
 
